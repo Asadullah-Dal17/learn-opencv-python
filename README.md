@@ -23,7 +23,7 @@ pip3 install opencv-python
 
 - [x]  Test in opencv installation
 - [x] reading images
-- [ ] saving the images / writing the image
+- [x] saving the images / writing the image
 - [ ] change color spaces
 - [ ] getting pixels values
 - [ ] getting pixels location
