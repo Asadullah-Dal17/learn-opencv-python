@@ -4,7 +4,7 @@ learn opencv-python from basic to advances, with AiPhile
 in this  repository I will provide the all the basics stuff required in opencv, to get started
 ## TODO
 
-- [ ]  Test in opencv installation
+- [x]  Test in opencv installation
 - [x] reading images
 - [ ] saving the images / writing the image
 - [ ] change color spaces
