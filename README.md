@@ -21,11 +21,11 @@ pip3 install opencv-python
 
 ## TODO
 ### Basics Stuff
-- [x]  Testing opencv installation
-- [x] reading images
+- [x]  Testing 🧪 opencv installation
+- [x] reading images 🖼️
 - [x] saving the images / writing the image
-- [x] Getting Pixel Values
-- [x] modifying Pixel values (BGR)
+- [x] Getting Pixel Values 🟥
+- [x] modifying Pixel values (BGR🔵🟢🔴)
 - [x] creating empty image
 - [x] change color spaces
 - [x] getting pixels values
