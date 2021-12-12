@@ -30,4 +30,4 @@ pip3 install opencv-python
 - [x] change color spaces
 - [x] getting pixels values
 - [x] getting pixels location
-- [ ] cropping region
+- [x] cropping region
