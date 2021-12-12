@@ -21,7 +21,7 @@ pip3 install opencv-python
 
 ## TODO
 ### Basics Stuff
-- [x]  Test in opencv installation
+- [x]  Testing opencv installation
 - [x] reading images
 - [x] saving the images / writing the image
 - [x] Getting Pixel Values
@@ -38,8 +38,8 @@ pip3 install opencv-python
 - [x] Edges Detection
 - [ ] Resizing the image
 
-### Video Analysis
-- [ ] Reading the Video files from camera
-- [ ] Getting the Video feed from Camera
-- [ ] Calculating FPS
+### Video Analysis :video_camera:
+- [ ] Reading the Video files from camera 📷
+- [ ] Getting the Video feed, from Video file 📁
+- [ ] Calculating FPS 🧲
 - [ ] Resizing the frame
