@@ -33,7 +33,7 @@ pip3 install opencv-python
 - [x] cropping region
 ### important Function/methods in Opencv
 - [x] Gaussian Blur to  de-nosing images
-- [ ] Blurring the images
+- [x] Blurring the images
 - [ ] Blurring the region
 - [ ] Edges Detection
 - [ ] Resizing the image
