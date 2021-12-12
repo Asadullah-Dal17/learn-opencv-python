@@ -20,7 +20,7 @@ pip3 install opencv-python
 ---
 
 ## TODO
-
+### Basics Stuff
 - [x]  Test in opencv installation
 - [x] reading images
 - [x] saving the images / writing the image
@@ -31,3 +31,10 @@ pip3 install opencv-python
 - [x] getting pixels values
 - [x] getting pixels location
 - [x] cropping region
+### important Function/methods in Opencv
+- [ ] Gaussian Blur to  de-nosing images
+- [ ] Bluring the images
+- [ ] bluring the region
+- [ ] Edges Detection
+- [ ] Resizing the image
+
