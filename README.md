@@ -27,7 +27,7 @@ pip3 install opencv-python
 - [x] Getting Pixel Values
 - [x] modifying Pixel values (BGR)
 - [x] creating empty image
-- [ ] change color spaces
-- [ ] getting pixels values
-- [ ] getting pixels location
+- [x] change color spaces
+- [x] getting pixels values
+- [x] getting pixels location
 - [ ] cropping region
