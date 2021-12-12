@@ -38,3 +38,8 @@ pip3 install opencv-python
 - [ ] Edges Detection
 - [ ] Resizing the image
 
+### Video Analysis
+- [ ] Reading the Video files from camera
+- [ ] Getting the Video feed from Camera
+- [ ] Calculating FPS
+- [ ] Resizing the frame
