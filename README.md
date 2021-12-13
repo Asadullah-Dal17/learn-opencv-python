@@ -43,3 +43,12 @@ pip3 install opencv-python
 - [x] Getting the Video feed, from Video file 📁
 - [x] Calculating FPS 🧲
 - [x] Resizing the frame
+
+### Drawing the Shapes
+ 
+- [ ] Drawing the Circle 
+- [ ] Drawing the Rectangle 
+- [ ] Draw the Polygon
+- [ ] Draw the Text
+- [ ] Draw the line
+- [ ] Move the Circle
