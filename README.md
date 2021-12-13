@@ -45,7 +45,7 @@ pip3 install opencv-python
 - [x] Resizing the frame
 
 ### Drawing the Shapes
- 
+
 - [ ] Drawing the Circle 
 - [ ] Drawing the Rectangle 
 - [ ] Draw the Polygon
