@@ -40,6 +40,6 @@ pip3 install opencv-python
 
 ### Video Analysis :video_camera:
 - [x] Reading the Video files from camera 📷
-- [ ] Getting the Video feed, from Video file 📁
+- [x] Getting the Video feed, from Video file 📁
 - [ ] Calculating FPS 🧲
 - [ ] Resizing the frame
