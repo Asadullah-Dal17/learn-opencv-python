@@ -1,7 +1,7 @@
 
 import cv2 as cv 
 
-img_path = '../images/shapes_image.png'
+img_path = '../../images/shapes_image.png'
 
 img = cv.imread(img_path)
 print(img.shape)

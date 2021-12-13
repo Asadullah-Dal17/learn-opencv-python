@@ -1,6 +1,6 @@
 import cv2 as cv 
 
-img = cv.imread('../images/shapes_image.png')
+img = cv.imread('../../images/shapes_image.png')
 cv.imshow('img', img)
 cv.waitKey(0)
 # reducing the size of img by half  define by fx for width , fy for height

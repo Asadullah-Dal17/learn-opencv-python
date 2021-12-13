@@ -1,7 +1,7 @@
 import cv2 as cv 
 
 
-img = cv.imread('../saved_image/save_image.png')
+img = cv.imread('../../saved_image/save_image.png')
 cv.imshow('img', img)
 cv.waitKey(0)
 # selecting points or coordinates of images to crop, or pixels

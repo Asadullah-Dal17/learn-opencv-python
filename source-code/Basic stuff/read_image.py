@@ -2,7 +2,7 @@
 import cv2 as cv 
 
 # providing the image path /location of images in dir
-img_path = '../images/shapes_image.png'
+img_path = '../../images/shapes_image.png'
 
 # reading images from dirctory 
 img = cv.imread(img_path)

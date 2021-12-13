@@ -1,7 +1,7 @@
 import cv2 as cv 
 
 # reading image 
-img = cv.imread('../images/shapes_image.png')
+img = cv.imread('../../images/shapes_image.png')
 
 # getting the pixel value x =100, y=100 location in images
 blue,green, red = img[100,100]
