@@ -42,4 +42,4 @@ pip3 install opencv-python
 - [x] Reading the Video files from camera 📷
 - [x] Getting the Video feed, from Video file 📁
 - [x] Calculating FPS 🧲
-- [ ] Resizing the frame
+- [x] Resizing the frame
