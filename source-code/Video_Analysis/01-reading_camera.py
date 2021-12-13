@@ -14,6 +14,7 @@ while True:
     # define key to close the program
     key = cv.waitKey(1)
     if key ==ord('q'):
+        # when 'q' press on Key board the program will quit 
         break
 # close the camera 
 cap.release()
