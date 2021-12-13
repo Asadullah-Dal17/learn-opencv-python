@@ -12,10 +12,10 @@ while True:
         break
     
     # Defing the point for circle 
-    x = 100 
-    y =200
+    x = 300 
+    y =300
     # draw the circle
-    cv.circle(frame, center=(x, y), radius=20, color=(255,255,255), thickness=5)
+    cv.circle(frame, center=(x, y), radius=100, color=(255,255,255), thickness=20,lineType=cv.LINE_AA)
     
     cv.imshow('frame', frame)
     # define key to close the program
