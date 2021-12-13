@@ -14,7 +14,7 @@ while True:
     # Defing the point for circle 
     x = 100 
     y =200
-
+    # draw the circle
     cv.circle(frame, center=(x, y), radius=20, color=(255,255,255), thickness=5)
     
     cv.imshow('frame', frame)
