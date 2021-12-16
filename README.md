@@ -20,9 +20,11 @@ pip3 install opencv-python
 ```
 
 ## TODO
+✅ = Done 
+❌ = Not Available 
 
 |**Python** |**C++**| **Topics**|
-|----|--------|-----| ---|
+|----|--------|-----|
 ✅| ✅|reading images 🖼️ |
 | ✅ | ✅| saving the images / writing the image  
 | ✅ |:x:| Getting Pixel Values 🟥 |  
@@ -35,7 +37,7 @@ pip3 install opencv-python
 
 ### important Function/methods in Opencv
 |**Python**| **C++** |**Topics**|       
-|----|--------|-----| ---|
+|----|--------|-----| 
 | ✅| :x:| Gaussian Blur to  de-nosing images 
 | ✅| :x:| Blurring the images 
 | ✅| :x:| Blurring the region  
@@ -43,15 +45,21 @@ pip3 install opencv-python
 | ✅| :x:| Resizing the image 
 
 ### Video Analysis :video_camera:
-- [x] Reading the Video files from camera 📷
-- [x] Getting the Video feed, from Video file 📁
-- [x] Calculating FPS 🧲
-- [x] Resizing the frame
+|**Python**| **C++** |**Topics**|       
+|----|--------|-----|
+| ✅| :x:| Reading the Video files from camera 📷
+| ✅| :x:| Getting the Video feed, from Video file 📁
+| ✅| :x:| Calculating FPS 🧲
+| ✅| :x:| Edges Detection  
+| ✅| :x:| Resizing the frame
+
 
 ### Drawing the Shapes
-- [x] Drawing the Circle 
-- [ ] Drawing the Rectangle 
-- [ ] Draw the Polygon
-- [ ] Draw the Text
-- [ ] Draw the line
-- [ ] Move the Circle
+|**Python**| **C++** |**Topics**|       
+|----|--------|-----|
+| ✅| :x:| Drawing the Circle 
+| :x:| :x:| Drawing the Rectangle 
+|:x:| :x:|Draw the Polygon
+| ❌| :x:| Draw Text 
+| :x:| :x:| Draw Line
+|:x: | :x: | Move Circle
