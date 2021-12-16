@@ -1,5 +1,5 @@
 # learn-opencv-python
-**Python and C++ **
+**Python and C++**
 learn opencv-python from basic to advances, with AiPhile
 
 in this  repository I will provide the all the basics stuff required in opencv, to get started, 
@@ -37,10 +37,10 @@ pip3 install opencv-python
 |status| Python - Basic |status|     C++  |
 |----|--------|-----| ---|
 | ✅| Gaussian Blur to  de-nosing images | ❌| Gaussian Blur to  de-nosing images
-| ✅| Blurring the images | :x: 
-| ✅| Blurring the region
-| ✅| Edges Detection
-| ✅|Resizing the image
+| ✅| Blurring the images | :x: | Blurring the images 
+| ✅| Blurring the region | ❌ | Blurring the region
+| ✅| Edges Detection |:x: | Edges Detection |
+| ✅|Resizing the image | ❌ | Resizing the Image
 
 ### Video Analysis :video_camera:
 - [x] Reading the Video files from camera 📷
