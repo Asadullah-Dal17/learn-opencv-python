@@ -27,7 +27,7 @@ pip3 install opencv-python
 |----|--------|-----|
 ✅| ✅|reading images 🖼️ |
 | ✅ | ✅| saving the images / writing the image  
-| ✅ |:x:| Getting Pixel Values 🟥 |  
+| ✅ |✅| Getting Pixel Values 🟥 |  
 | ✅ |:x:| modifying Pixel values (BGR🔵🟢🔴)  
 | ✅ |:x:|creating empty image 
 | ✅ |:x:| change color spaces 
