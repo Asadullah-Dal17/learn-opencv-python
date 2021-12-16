@@ -17,10 +17,20 @@ pip install opencv-python
 
 ```python 
 pip3 install opencv-python
-````
+```
 
----
 
+| Python - Basic |     C++  |
+|--------|-----| 
+| ✅ reading images 🖼️ | ✅ reading Image :framed_picture:
+| ✅ saving the images / writing the image | ✅ saving the images / writing the image
+| ✅ Getting Pixel Values 🟥 |  ❌ Getting Pixel Values 🟥  
+| ✅ modifying Pixel values (BGR🔵🟢🔴)  | ❌ modifying Pixel values (BGR🔵🟢🔴)
+| ✅ creating empty image | ❌ create empty image 
+| ✅ change color spaces
+| ✅ getting pixels values
+| ✅ getting pixels location
+| ✅ cropping region
 ## TODO
 ### Basics Stuff
 - [x]  Testing 🧪 opencv installation
