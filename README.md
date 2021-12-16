@@ -21,26 +21,26 @@ pip3 install opencv-python
 
 ## TODO
 
-|status| Python - Basic |status|     C++  |
+|**Python** |**C++**| **Topics**|
 |----|--------|-----| ---|
-✅| reading images 🖼️ | ✅ | reading Image :framed_picture:
-| ✅ | saving the images / writing the image | ✅| saving the images / writing the image
-| ✅ | Getting Pixel Values 🟥 | ❌| Getting Pixel Values 🟥  
-| ✅ | modifying Pixel values (BGR🔵🟢🔴)  | ❌ | modifying Pixel values (BGR🔵🟢🔴)
-| ✅ |creating empty image | ❌| create empty image 
-| ✅ | change color spaces | ❌| change color spaces
-| ✅ | getting pixels values | ❌| getting pixels values
-| ✅ | getting pixels location |❌| getting pixels location
-| ✅ | cropping region | ❌| cropping region
+✅| ✅|reading images 🖼️ |
+| ✅ | ✅| saving the images / writing the image  
+| ✅ |:x:| Getting Pixel Values 🟥 |  
+| ✅ |:x:| modifying Pixel values (BGR🔵🟢🔴)  
+| ✅ |:x:|creating empty image 
+| ✅ |:x:| change color spaces 
+| ✅ |:x:| getting pixels values  
+| ✅ |:x:| getting pixels location 
+| ✅ |:x:| cropping region  
 
 ### important Function/methods in Opencv
-|status| Python - Basic |status|     C++  |
+|**Python**| **C++** |**Topics**|       
 |----|--------|-----| ---|
-| ✅| Gaussian Blur to  de-nosing images | ❌| Gaussian Blur to  de-nosing images
-| ✅| Blurring the images | :x: | Blurring the images 
-| ✅| Blurring the region | ❌ | Blurring the region
-| ✅| Edges Detection |:x: | Edges Detection |
-| ✅|Resizing the image | ❌ | Resizing the Image
+| ✅| :x:| Gaussian Blur to  de-nosing images 
+| ✅| :x:| Blurring the images 
+| ✅| :x:| Blurring the region  
+| ✅| :x:| Edges Detection  
+| ✅| :x:| Resizing the image 
 
 ### Video Analysis :video_camera:
 - [x] Reading the Video files from camera 📷
