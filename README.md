@@ -19,36 +19,28 @@ pip install opencv-python
 pip3 install opencv-python
 ```
 
-
-| Python - Basic |     C++  |
-|--------|-----| 
-| ✅ reading images 🖼️ | ✅ reading Image :framed_picture:
-| ✅ saving the images / writing the image | ✅ saving the images / writing the image
-| ✅ Getting Pixel Values 🟥 |  ❌ Getting Pixel Values 🟥  
-| ✅ modifying Pixel values (BGR🔵🟢🔴)  | ❌ modifying Pixel values (BGR🔵🟢🔴)
-| ✅ creating empty image | ❌ create empty image 
-| ✅ change color spaces
-| ✅ getting pixels values
-| ✅ getting pixels location
-| ✅ cropping region
 ## TODO
-### Basics Stuff
-- [x]  Testing 🧪 opencv installation
-- [x] reading images 🖼️
-- [x] saving the images / writing the image
-- [x] Getting Pixel Values 🟥
-- [x] modifying Pixel values (BGR🔵🟢🔴)
-- [x] creating empty image
-- [x] change color spaces
-- [x] getting pixels values
-- [x] getting pixels location
-- [x] cropping region
+
+|status| Python - Basic |status|     C++  |
+|----|--------|-----| ---|
+✅| reading images 🖼️ | ✅ | reading Image :framed_picture:
+| ✅ | saving the images / writing the image | ✅| saving the images / writing the image
+| ✅ | Getting Pixel Values 🟥 | ❌| Getting Pixel Values 🟥  
+| ✅ | modifying Pixel values (BGR🔵🟢🔴)  | ❌ | modifying Pixel values (BGR🔵🟢🔴)
+| ✅ |creating empty image | ❌| create empty image 
+| ✅ | change color spaces | ❌| change color spaces
+| ✅ | getting pixels values | ❌| getting pixels values
+| ✅ | getting pixels location |❌| getting pixels location
+| ✅ | cropping region | ❌| cropping region
+
 ### important Function/methods in Opencv
-- [x] Gaussian Blur to  de-nosing images
-- [x] Blurring the images
-- [x] Blurring the region
-- [x] Edges Detection
-- [x] Resizing the image
+|status| Python - Basic |status|     C++  |
+|----|--------|-----| ---|
+| ✅| Gaussian Blur to  de-nosing images | ❌| Gaussian Blur to  de-nosing images
+| ✅| Blurring the images | :x: 
+| ✅| Blurring the region
+| ✅| Edges Detection
+| ✅|Resizing the image
 
 ### Video Analysis :video_camera:
 - [x] Reading the Video files from camera 📷
