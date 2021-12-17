@@ -13,6 +13,7 @@ for (int r=0; r<modifed_img.rows; r++){
     for(int c =0; c<modifed_img.cols; c++){
         
     modifed_img.at<cv::Vec3b>(r, c)[0] = modifed_img.at<cv::Vec3b>(r ,c)[0] =0;
+    
 
     }
 }
