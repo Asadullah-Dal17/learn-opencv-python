@@ -10,3 +10,6 @@ add_executable(empty_image main.cpp)
 set(CPACK_PROJECT_NAME ${PROJECT_NAME})
 set(CPACK_PROJECT_VERSION ${PROJECT_VERSION})
 include(CPack)
+#linking the libraries 
+include_directories(OpenCV_INCLUDS_DIRS)
+target_link_libraries(empty_image ${OpenCV_LIBS})
