@@ -26,14 +26,14 @@ pip3 install opencv-python
 |**Python** |**C++**| **Topics**|
 |----|--------|-----|
 ✅| ✅|reading images 🖼️ |
-| ✅ | ✅| saving the images / writing the image  
+| ✅ |✅| saving the images / writing the image  
 | ✅ |✅| Getting Pixel Values 🟥 |  
 | ✅ |✅| modifying Pixel values (BGR🔵🟢🔴)  
-| ✅ |:x:|creating empty image 
-| ✅ |:x:| change color spaces 
-| ✅ |:x:| getting pixels values  
-| ✅ |:x:| getting pixels location 
-| ✅ |:x:| cropping region  
+| ✅ |✅|creating empty image 
+| ✅ |✅| change color spaces 
+| ✅ |✅| getting pixels values  
+| ✅ |✅| getting pixels location 
+| ✅ |✅| cropping region  
 
 ### important Function/methods in Opencv
 |**Python**| **C++** |**Topics**|       
