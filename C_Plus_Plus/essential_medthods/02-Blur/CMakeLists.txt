@@ -1,0 +1,13 @@
+cmake_minimum_required(VERSION 3.0.0)
+project(blur_method VERSION 0.1.0)
+
+include(CTest)
+enable_testing()
+find_package(OpenCV REQUIRED)
+find_package(Threads REQUIRED)
+add_executable(blur_method main.cpp)
+include_directories(${OpenCV_INCLUDES_DIRS})
+target_link_libraries(blur_method ${OpenCV_LIBS})
+set(CPACK_PROJECT_NAME ${PROJECT_NAME})
+set(CPACK_PROJECT_VERSION ${PROJECT_VERSION})
+include(CPack)
