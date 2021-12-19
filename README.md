@@ -38,8 +38,8 @@ pip3 install opencv-python
 ### important Function/methods in Opencv
 |**Python**| **C++** |**Topics**|       
 |----|--------|-----| 
-| ✅| :x:| Gaussian Blur to  de-nosing images 
-| ✅| :x:| Blurring the images 
+| ✅| ✅| Gaussian Blur to  de-nosing images 
+| ✅| ✅| Blurring the images 
 | ✅| :x:| Blurring the region  
 | ✅| :x:| Edges Detection  
 | ✅| :x:| Resizing the image 
