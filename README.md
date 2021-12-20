@@ -20,7 +20,7 @@ pip3 install opencv-python
 ```
 
 ## TODO
-✅ = Done 
+✅ = Available 
 ❌ = Not Available 
 
 |**Python** |**C++**| **Topics**|
