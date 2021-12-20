@@ -41,7 +41,7 @@ pip3 install opencv-python
 | ✅| ✅| Gaussian Blur to  de-nosing images 
 | ✅| ✅| Blurring the images 
 | ✅| ✅| Blurring the region  
-| ✅| :x:| Edges Detection  
+| ✅| ✅| Edges Detection  
 | ✅| :x:| Resizing the image 
 
 ### Video Analysis :video_camera:
