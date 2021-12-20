@@ -42,7 +42,7 @@ pip3 install opencv-python
 | ✅| ✅| Blurring the images 
 | ✅| ✅| Blurring the region  
 | ✅| ✅| Edges Detection  
-| ✅| :x:| Resizing the image 
+| ✅| ✅| Resizing the image 
 
 ### Video Analysis :video_camera:
 |**Python**| **C++** |**Topics**|       
