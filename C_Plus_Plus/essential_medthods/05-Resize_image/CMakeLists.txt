@@ -8,6 +8,7 @@ find_package(Threads REQUIRED)
 
 add_executable(resize_image main.cpp)
 include_directories(${OpenCV_INCLUDE_DIRS})
+target_link_libraries(resize_image ${OpenCV_LIBS} )
 set(CPACK_PROJECT_NAME ${PROJECT_NAME})
 set(CPACK_PROJECT_VERSION ${PROJECT_VERSION})
 include(CPack)
